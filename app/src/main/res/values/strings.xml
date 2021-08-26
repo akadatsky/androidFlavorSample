@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">flavorsSample</string>
+    <string name="free_feature">free feature</string>
+    <string name="paid_feature">paid feature</string>
+</resources>
